@@ -1,0 +1,13 @@
+{
+  "item.weathercontrol.rain_item": "Rain Scepter",
+  "item.weathercontrol.snow_item": "Snow Scepter",
+  "item.weathercontrol.thunder_item": "Thunder Scepter",
+  "item.weathercontrol.clear_item": "Sun Scepter",
+  "itemGroup.weathercontrol": "Weather Control",
+  "weathercontrol.mode.rain": "Rain",
+  "weathercontrol.mode.snow": "Snow",
+  "weathercontrol.mode.thunder": "Thunderstorm",
+  "weathercontrol.mode.clear": "Clear day",
+  "weathercontrol.message.on": "%s enabled",
+  "weathercontrol.message.off": "%s disabled"
+}

@@ -1,0 +1,13 @@
+{
+  "item.weathercontrol.rain_item": "Cetro de Lluvia",
+  "item.weathercontrol.snow_item": "Cetro de Nieve",
+  "item.weathercontrol.thunder_item": "Cetro de Tormenta",
+  "item.weathercontrol.clear_item": "Cetro del Sol",
+  "itemGroup.weathercontrol": "Control del Clima",
+  "weathercontrol.mode.rain": "Lluvia",
+  "weathercontrol.mode.snow": "Nieve",
+  "weathercontrol.mode.thunder": "Tormenta",
+  "weathercontrol.mode.clear": "Día despejado",
+  "weathercontrol.message.on": "%s activada",
+  "weathercontrol.message.off": "%s desactivada"
+}

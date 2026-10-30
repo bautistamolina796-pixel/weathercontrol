@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="weathercontrol"
+version="1.0.0"
+displayName="Weather Control"
+description='''Items para controlar el clima: lluvia, tormenta, nieve y dia despejado.
+Click derecho para activar, click derecho otra vez para desactivar.'''
+
+[[dependencies.weathercontrol]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.weathercontrol]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
